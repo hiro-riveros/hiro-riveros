@@ -35,16 +35,8 @@ Fuera del teclado, soy un atleta de alto rendimiento en **CrossFit** 💪, dedic
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-hiro-riveros-projects.vercel.app/api?username=hiro-riveros&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="hiro-riveros's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats-hiro-riveros-projects.vercel.app/api/top-langs/?username=hiro-riveros&layout=compact&theme=dark&hide_border=true" alt="hiro-riveros's Top Languages" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hiro-riveros&theme=darkhub" alt="hiro-riveros's Trophies"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hiro-riveros&theme=dark" alt="hiro-riveros's Streak Stats"/>
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🌐 Conecta conmigo
 
