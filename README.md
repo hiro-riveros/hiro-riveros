@@ -1,6 +1,6 @@
 <!-- Profile README for hiro-riveros | Designed for Dark Mode -->
 
-<h1 align="center">Hi, I'm Hiro Riveros 👋</h1>
+<h1 align="center">Hiro Riveros 👋</h1>
 <p align="center">
   <b>Software Engineer | Ruby, Elixir, Go, React & DevOps Enthusiast</b>
 </p>
@@ -36,11 +36,14 @@ Fuera del teclado, soy un atleta de alto rendimiento en **CrossFit** 💪, dedic
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiro-riveros&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="hiro-riveros's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiro-riveros&layout=compact&theme=dark&hide_border=true" alt="hiro-riveros's Top Languages" height="165"/>
+  <img src="https://github-readme-stats-hiro-riveros-projects.vercel.app/api?username=hiro-riveros&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="hiro-riveros's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats-hiro-riveros-projects.vercel.app/api/top-langs/?username=hiro-riveros&layout=compact&theme=dark&hide_border=true" alt="hiro-riveros's Top Languages" height="165"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hiro-riveros&bg_color=22272e&color=58a6ff&line=9b59b6&point=403d3d&area=true&hide_border=true" alt="hiro-riveros's Contribution Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hiro-riveros&theme=darkhub" alt="hiro-riveros's Trophies"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hiro-riveros&theme=dark" alt="hiro-riveros's Streak Stats"/>
 </p>
 
 ## 🌐 Conecta conmigo
