@@ -20,8 +20,9 @@ Fuera del teclado, soy un atleta de alto rendimiento en **CrossFit** 💪, dedic
 ## 🚀 Tech Stack & Skills
 
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Elixir](https://img.shields.io/badge/-Elixir-6e4a7e?style=for-the-badge&logo=elixir&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Elixir](https://img.shields.io/badge/-Elixir-6e4a7e?style=for-the-badge&logo=elixir&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![DevOps](https://img.shields.io/badge/-DevOps-0A0A0A?style=for-the-badge&logo=linux&logoColor=white)
 
