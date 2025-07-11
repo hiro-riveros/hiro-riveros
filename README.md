@@ -32,7 +32,7 @@ Fuera del teclado, soy un atleta de alto rendimiento en **CrossFit** 💪, dedic
 ## 🌟 Proyectos Destacados
 
 - [**go-webgen**](https://github.com/hiro-riveros/go-webgen): Herramienta generadora de componentes web con Go 🌐
-- [**go-webgen**](https://github.com/hiro-riveros/identity-validator): Validador de identidad (dni)
+- [**go-identity-validator**](https://github.com/hiro-riveros/identity-validator): Validador de identidad (dni)
 - [**elixir-shipit-api**](https://github.com/hiro-riveros/elixir-shipit-api): API robusta en Elixir para integraciones y automatizaciones 🚢
 
 
