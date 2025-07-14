@@ -15,7 +15,7 @@
 
 ¡Hola! Soy un **Ingeniero en Informática** 💻 con más de 10 años de experiencia laboral, apasionado por el desarrollo de software y las soluciones tecnológicas. 🚀
 
-Fuera del teclado, soy un atleta de alto rendimiento en **CrossFit** 💪, dedicando la misma disciplina y enfoque a superar mis límites en cada entrenamiento. 🏋️‍♂️ En mi tiempo libre, disfruto del **gaming** 🎮, el **anime** 🎬, las **series** 📺 y la lectura de **mangas** 📚.
+Fuera del teclado, soy un atleta de **CrossFit** 💪, dedicando la misma disciplina y enfoque a superar mis límites en cada entrenamiento. 🏋️‍♂️ En mi tiempo libre, disfruto del **gaming** 🎮, el **anime** 🎬, las **series** 📺 y la lectura de **mangas** 📚.
 
 ## 🚀 Tech Stack & Skills
 
@@ -52,7 +52,6 @@ Fuera del teclado, soy un atleta de alto rendimiento en **CrossFit** 💪, dedic
 
 - 🎮 Juego videojuegos (¡pero soy pésimo en los juegos de mesa!)
 - 📚 Sigo varias publicaciones de manga semanalmente
-- 🏋️‍♂️ Compito en CrossFit con la misma pasión que pongo en el código
 
 ---
 
