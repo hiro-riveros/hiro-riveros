@@ -2,7 +2,7 @@
 
 <h1 align="center">Hiro Riveros 👋</h1>
 <p align="center">
-  <b>Software Engineer | Ruby, Elixir, Go, React & DevOps Enthusiast</b>
+  <b>Software Engineer | Ruby, Elixir, Go, Javascript, React & DevOps Enthusiast</b>
 </p>
 
 ---
@@ -23,6 +23,7 @@ Fuera del teclado, soy un atleta de **CrossFit** 💪, dedicando la misma discip
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Elixir](https://img.shields.io/badge/-Elixir-6e4a7e?style=for-the-badge&logo=elixir&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JS](https://img.shields.io/badge/-JS-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![DevOps](https://img.shields.io/badge/-DevOps-0A0A0A?style=for-the-badge&logo=linux&logoColor=white)
 
