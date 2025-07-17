@@ -1,6 +1,6 @@
 <!-- Profile README for hiro-riveros | Designed for Dark Mode -->
 <p align="center">
-  <b>Software Engineer | Ruby, Elixir, Go, React & DevOps Enthusiast</b>
+  <b>Software Engineer | Ruby, Go, Python, Elixir, Javascript & DevOps Enthusiast</b>
 </p>
 
 ---
