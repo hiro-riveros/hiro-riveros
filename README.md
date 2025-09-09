@@ -30,9 +30,11 @@ Fuera del teclado, soy un atleta de **CrossFit** 💪, dedicando la misma discip
 
 ## 🌟 Proyectos Destacados
 
-- [**go-webgen**](https://github.com/hiro-riveros/go-webgen): Herramienta generadora de componentes web con Go 🌐
+
 - [**go-idvalidator**](https://github.com/hiro-riveros/identity-validator): Validador de identidad (dni) 🪪
 - [**gorm-paginator**](https://github.com/hiro-riveros/gorm-paginator): Paginador flexible y genérico para GORM en Go 📦
+- [**LocalTraslate**](https://github.com/hiro-riveros/translate-cli): 🗣️ Un traductor de línea de comandos para traducciones privadas y sin conexión.
+- [**go-webgen**](https://github.com/hiro-riveros/go-webgen): Herramienta generadora de componentes web con Go 🌐
 - [**elixir-shipit-api**](https://github.com/hiro-riveros/elixir-shipit-api): API robusta en Elixir para integraciones y automatizaciones 🚢
 
 
