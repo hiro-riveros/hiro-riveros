@@ -38,22 +38,14 @@ Fuera del teclado, soy un atleta de **CrossFit** 💪, dedicando la misma discip
 - [**elixir-shipit-api**](https://github.com/hiro-riveros/elixir-shipit-api): API robusta en Elixir para integraciones y automatizaciones 🚢
 
 
-
-
-<!-- ## 📊 GitHub Stats -->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ## 🌐 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hirochi-riveros-724517123/)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hiro_riveros)
-[![X](https://img.shields.io/badge/-x-12100E?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@hiro_riveros)
 
 ## 🎉 Fun Facts
 
-- 🎮 Juego videojuegos (¡pero soy pésimo en los juegos de mesa!)
+- 🎮 Juego videojuegos
 - 📚 Sigo varias publicaciones de manga semanalmente
 <!--
 ---
